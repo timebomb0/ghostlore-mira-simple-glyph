@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Mira Simple Glyph</name>
+  <description>Adds new "Mira" Simple Glyph item that can drop alongside other simple glyphs. Not usable in Complex Glyphs but very strong.</description>
+  <activated>true</activated>
+  <publishId>0</publishId>
+</ModInfo>
